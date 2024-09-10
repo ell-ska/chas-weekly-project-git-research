@@ -38,3 +38,6 @@
 - `git commit -m "message"`
 - `git push -f`
   - force push and override the "save" commit
+
+## 1 fun fact i've learnt about github
+every active public github repository as of 02/02/2020 is stored on physical disk in the Arctic World Archive on Svalbard! [soruce](https://www.tiktok.com/t/ZGeKA5vDT/)
