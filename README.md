@@ -37,4 +37,4 @@
 - `git add .`
 - `git commit -m "message"`
 - `git push -f`
-  - foruce push and override the "save" commit
+  - force push and override the "save" commit
