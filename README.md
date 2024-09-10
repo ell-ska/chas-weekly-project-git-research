@@ -21,3 +21,20 @@
   - commit all staged files and add a commit message
 - `git pull`
   - fetch remote changes and merge/rebase changes to reconcile diverging branches
+
+## 1 git command i found on my own
+*or rather my favorite way of saving when you need to run but are not finished with your work*
+- `git add .`
+- `git commit -m "save"`
+  - create a "temporary" commit (even tho nothing is really temporary in git)
+- `git push`
+
+![one eternity later](./spongebob.jpg)
+
+- `git reset HEAD~1`
+  - kinda reverts back to the state you had before the previous commands. you will see your changes as if you've just made them
+- **finish your task!**
+- `git add .`
+- `git commit -m "message"`
+- `git push -f`
+  - foruce push and override the "save" commit
