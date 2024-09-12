@@ -43,7 +43,7 @@
 
 ## fun facts i've learnt
 ### about github
-every active public github repository as of 02/02/2020 is stored on physical disks in the Arctic World Archive on Svalbard! [soruce](https://www.tiktok.com/t/ZGeKA5vDT/)
+every active public github repository as of 02/02/2020 is stored on physical disks in the Arctic World Archive on Svalbard! [source](https://www.tiktok.com/t/ZGeKA5vDT/)
 
 ### about markdown
 even though it's rarely used you can <ins>underline text</ins> with this syntax: `<ins>this will be underlined</ins>`
